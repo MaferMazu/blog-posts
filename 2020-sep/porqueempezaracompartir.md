@@ -1,7 +1,6 @@
 # Por qué empezar a compartir con el mundo quién eres
 
-<span style="background-color:blue">Spanish</span>
-<span style="background-color:yellow">Pensamientos</span>
+> Spanish | Pensamientos
 
 ## ¿Por qué no? :smile:
 
@@ -25,7 +24,7 @@ Son cosas que podrías hacer que suman y no deberían hacerte daño.
 
 Hay varios libros en donde refuerzan que eres especial (para aumentar el autoestima) y otros tantos en donde afirman lo contrario (para que te des cuenta de que nadie tiene rasgos especiales y que todos tienen que trabajar por lo que quieren), sin importar si eres especial o no, estoy segura de que eres similar y al mismo tiempo muy diferente a todos los demás. Esa similitud te va a permitir ser una persona empática y que la gente con situaciones similares pueda entenderte; y esa diferencia va a darle un valor interesante a lo que haces.
 
-> Nadie puede hacer las cosas como tú
+**Nadie puede hacer las cosas como tú**
 
 Todos vemos las cosas de forma muy diferente, y vivimos un conjunto de experiencias únicas
 
