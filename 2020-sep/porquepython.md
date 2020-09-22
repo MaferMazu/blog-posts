@@ -66,7 +66,7 @@ my_mean = mean(x)
 
 ---
 
-Realmente puedes hacer muchas cosas con Python, sin embargo para mí las razones principales son su filosofía de **código simple y su gran comunidad** (si googleas acerca de python es muy probable que encuentres respuestas) :mag_right:
+Realmente puedes hacer muchas cosas con python, sin embargo para mí las razones principales por las que recomiendo aprender a programar con este lenguaje son su filosofía de **código simple y su gran comunidad** (si googleas acerca de python es muy probable que encuentres respuestas) :mag_right:
 
 Así que empieza a programar sin miedo.
 
