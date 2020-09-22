@@ -1,4 +1,4 @@
-# Por qué empezar a compartir con el mundo quién eres
+# ¿Por qué empezar a compartir con el mundo quién eres?
 
 > Spanish | Pensamientos
 

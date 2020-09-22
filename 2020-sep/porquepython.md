@@ -1,5 +1,7 @@
 # ¿Por qué empezar a Programar en Python? :snake:
 
+> Spanish | Python | dev.to
+
 ## ¿Qué es Python?
 
 Python es un lenguaje de programación excelente para adentrarte en el mundo de la programación.
@@ -14,7 +16,7 @@ Python es un lenguaje de programación excelente para adentrarte en el mundo de 
 
 - Te permite ejecutar el código sin necesidad de otros programas (es un lenguaje interpretado)
 
-- Puedes ejecutar el código en Windows, Mac Os y en Linux (es multiplataforma)
+- Puedes ejecutar el código en Windows, macOs y en Linux (es multiplataforma)
 
 
 ### Te permite:
@@ -40,7 +42,7 @@ class Persona:
 x = Persona()
 ```
 
-- Definir los procesos (te permite programar con el paradigma de programación imperativa)
+- Definir las instrucciones (te permite programar con el paradigma de programación imperativa)
 
 ```
 x=[1,2]
@@ -55,7 +57,7 @@ else:
 print(my_mean)
 ```
 
-- Programar con funciones (te permite programar con el paradigma de programación funcional)
+- Programar con funciones
 
 ```
 x=[1,2]
